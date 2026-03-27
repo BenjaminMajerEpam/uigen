@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npx vitest:*)",
+      "Bash(npm audit:*)",
+      "mcp__playwright__browser_navigate",
+      "mcp__playwright__browser_fill_form",
+      "mcp__playwright__browser_press_key",
+      "mcp__playwright__browser_click"
+    ]
+  }
+}

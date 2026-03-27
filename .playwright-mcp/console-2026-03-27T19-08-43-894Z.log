@@ -1,0 +1,49 @@
+[     592ms] [ERROR] ./src/lib/prompts/generation.tsx:14:61
+Parsing ecmascript source code failed
+  12 |   * No plain `bg-white` cards with `shadow-md` and a `bg-blue-500` button — that is the baseline to exceed
+  13 |   * Use a considered color palette: prefer `slate`, `zinc`, `stone`, `neutral`, or rich accent colors over raw `gray`/`blue` defaults
+> 14 |   * Build depth with layered shadows (`shadow-xl`, `shadow-2xl`, `ring`, `ring-offset`), not just `shadow-md`
+     |                                                             ^
+  15 |   * Use strong typographic hierarchy: contrast large/bold headings (`text-4xl font-black tracking-tight`) against lighter body text
+  16 |   * Add `letter-spacing` (`tracking-tight`, `tracking-widest`) and `leading` to shape rhythm
+  17 |   * Include subtle gradients (`bg-gradient-to-br`, `from-*`, `to-*`) for backgrounds, buttons, or accent elements
+
+Identifier cannot follow number
+
+Import trace:
+  App Route:
+    ./src/lib/prompts/generation.tsx
+    ./src/app/api/chat/route.ts @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_b0daae9a._.js:2359
+[     618ms] [ERROR] Failed to load resource: the server responded with a status of 500 (Internal Server Error) @ http://localhost:3000/favicon.ico?favicon.0b3bf435.ico:0
+[     627ms] [ERROR] ./src/lib/prompts/generation.tsx:14:61
+Parsing ecmascript source code failed
+  12 |   * No plain `bg-white` cards with `shadow-md` and a `bg-blue-500` button — that is the baseline to exceed
+  13 |   * Use a considered color palette: prefer `slate`, `zinc`, `stone`, `neutral`, or rich accent colors over raw `gray`/`blue` defaults
+> 14 |   * Build depth with layered shadows (`shadow-xl`, `shadow-2xl`, `ring`, `ring-offset`), not just `shadow-md`
+     |                                                             ^
+  15 |   * Use strong typographic hierarchy: contrast large/bold headings (`text-4xl font-black tracking-tight`) against lighter body text
+  16 |   * Add `letter-spacing` (`tracking-tight`, `tracking-widest`) and `leading` to shape rhythm
+  17 |   * Include subtle gradients (`bg-gradient-to-br`, `from-*`, `to-*`) for backgrounds, buttons, or accent elements
+
+Identifier cannot follow number
+
+Import trace:
+  App Route:
+    ./src/lib/prompts/generation.tsx
+    ./src/app/api/chat/route.ts @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_b0daae9a._.js:2359
+[   12434ms] [ERROR] ./src/lib/prompts/generation.tsx:14:61
+Parsing ecmascript source code failed
+  12 |   * No plain `bg-white` cards with `shadow-md` and a `bg-blue-500` button — that is the baseline to exceed
+  13 |   * Use a considered color palette: prefer `slate`, `zinc`, `stone`, `neutral`, or rich accent colors over raw `gray`/`blue` defaults
+> 14 |   * Build depth with layered shadows (`shadow-xl`, `shadow-2xl`, `ring`, `ring-offset`), not just `shadow-md`
+     |                                                             ^
+  15 |   * Use strong typographic hierarchy: contrast large/bold headings (`text-4xl font-black tracking-tight`) against lighter body text
+  16 |   * Add `letter-spacing` (`tracking-tight`, `tracking-widest`) and `leading` to shape rhythm
+  17 |   * Include subtle gradients (`bg-gradient-to-br`, `from-*`, `to-*`) for backgrounds, buttons, or accent elements
+
+Identifier cannot follow number
+
+Import trace:
+  App Route:
+    ./src/lib/prompts/generation.tsx
+    ./src/app/api/chat/route.ts @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_b0daae9a._.js:2359
